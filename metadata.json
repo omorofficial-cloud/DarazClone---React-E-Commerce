@@ -1,0 +1,5 @@
+{
+  "name": "DarazClone - React E-Commerce",
+  "description": "A fully functional e-commerce frontend mimicking Daraz, featuring a Seller Panel with Gemini AI product generation, User Dashboard, and persistent local storage cart.",
+  "requestFramePermissions": []
+}
